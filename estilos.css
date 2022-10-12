@@ -1,0 +1,55 @@
+#header{
+    background-color: #00358e !important;
+
+}
+#header ul li a {
+    text-align: center;
+    color: white !important;
+    
+}
+#header ul{
+    margin-left: 1350px;
+}
+#header ul li a img {
+    height:30px;
+}
+#header img{
+    height: 60px;
+}
+
+#banner{
+    padding: 5px;
+}
+
+#acerdaDe{
+    border:solid rgb(73, 72, 72) 1px;
+    border-radius: 25px;
+    padding: 15px;
+}
+#info{
+    margin-top: 8px;
+    border:solid rgb(73, 72, 72) 1px;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+#skills{
+    margin-top: 8px;
+    border:solid rgb(73, 72, 72) 1px;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+
+#ingreso{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#footer{
+    color: white;
+    text-align: center;
+    background-color: rgb(44, 42, 42);
+    height: 60px;
+    padding: 20px;
+}
